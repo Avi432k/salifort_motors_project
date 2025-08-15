@@ -150,14 +150,12 @@ Based on the findings:
 ## Project Structure
 salifort_motors_project/
 ├── data/
-│   ├── anaconda_projects/db/project_filebrowser.db
 │   ├── cleaned_sm_data.csv
 │   ├── HR_comma_sep.csv
 │   └── sm_data_170plus.csv
 ├── images/
 │   └── sm_variables.png
 ├── notebooks/
-│   ├── anaconda_projects/db/project_filebrowser.db
 │   ├── smp_data_cleaning.ipynb
 │   ├── smp_eda.ipynb
 │   └── smp_model.ipynb
