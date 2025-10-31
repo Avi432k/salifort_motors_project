@@ -74,7 +74,7 @@ The project followed the **PACE (Plan, Analyze, Construct, Execute)** framework:
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Key findings from the EDA:
 
